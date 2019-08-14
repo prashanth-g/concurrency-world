@@ -1,4 +1,4 @@
-package com.prashanth.os.concurrency;
+package com.prashanth.practice.os.concurrency;
 
 import java.math.BigDecimal;
 import java.util.Map;
